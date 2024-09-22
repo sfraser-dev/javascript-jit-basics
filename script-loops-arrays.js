@@ -34,3 +34,4 @@ for (let i = 0; i < 5; i++) {
         console.log(randNo+": is not divisible by 5");
     }
 }
+
