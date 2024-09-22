@@ -14,6 +14,15 @@
 1. Create a loop that counts backwards from 20-0.
 1. Generate 5 random numbers between 1-50. For each number generated, check if the number is divisible by 5 or not. Log whether it is divisible or not to the console.
 
+## Functions
+
+1. Write a function that takes in your name as an argument and logs a personalised greeting to you in the console.
+1. Write a function that takes in a number as an argument and check whether it is odd or even and logs the result to the console.
+1. ATM function (explained during the session). ATM Challenge Requirements:
+    - Your function must take in a pin number and an amount to withdraw.
+    - The pin number argument must be checked against a stored pin number and the withdrawal amount must be checked against a stored account balance.
+    - If the pin matches and the withdrawal amount is less than the account balance the transaction should be approved. If the pin is wrong or the balance is not sufficient, decline the transaction.
+
 ## Objects and Methods
 
 1. Create an object called ‘person’ with keys of name age and city. Add a method to the person object that greets the person using their name.
