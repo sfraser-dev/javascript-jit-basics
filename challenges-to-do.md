@@ -1,5 +1,11 @@
 # Various Challenges
 
+## Variables
+
+1. Create a variable that stores your name and log a string to the console that persoanlly greets you using template literals.
+1. Create variables storing your name, your favourite color and your favourite film or tv series. Using template literals I want you to log a sentence including these values to the console.
+1. Create variables storing what you ate for breakfast, lunch and dinner yesterday and log them to the console. Without redelcaring new variables I would like you to asign a new value of what you ate today to the variables, and again log them to the console.
+
 ## If Statements
 
 1. Write a program that checks whether a customer is old enough to be served alcohol at a bar. Declare a variable called age and write an if statement that checks whether age is 18 or above. If age is less than 18 log "Sorry, I can't serve you" to the console, if age is 18 or above log "No problem, what would you like to drink?"
